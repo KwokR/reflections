@@ -33,3 +33,9 @@
 	When we merge two branches together it will add new code common to both files as well as
 	additional code that is not present at the point when the file was branched. It will not add
 	deleted sections (lines of code that are no longer pre-split commit node)
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic merge so you don't forget but the merge needs to be specified first. Manual merge
+	takes a extra time but you can determine which files you want to merge because you are the 
+	'expert'
