@@ -26,3 +26,10 @@
 
 	The diagrams help display the parent-child relations of the commits in git. The branch
 	structure is easily understood when it is mapped out in a diagram.
+
+6. What is the result of merging two branches together? Why do we represent it in the 
+	diagram the way we do?
+
+	When we merge two branches together it will add new code common to both files as well as
+	additional code that is not present at the point when the file was branched. It will not add
+	deleted sections (lines of code that are no longer pre-split commit node)
