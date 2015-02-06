@@ -14,3 +14,9 @@
 	forks is similar to clone but on github. Clone will copy a repositoty from github onto
 	my local machine. branches are versions of the file that have diverged from the 'production' file.
 	There can be multiple branches that can run parallel to the production *master branch.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+	
+	The copy of the last known state if the remote helps to distinguish at what point in time did 
+	I last pull a copy from remote. This mechanism allows multiple updates on the repo and having a 
+	way to determine if same areas have been changed in the same file. 
