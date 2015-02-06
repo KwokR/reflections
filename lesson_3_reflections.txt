@@ -8,3 +8,9 @@
 
 	Manual pull provides you with an extral layer of control. Perhaps there are certain changes
 	you would like to make and branch off before pulling a new updated version.
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	
+	forks is similar to clone but on github. Clone will copy a repositoty from github onto
+	my local machine. branches are versions of the file that have diverged from the 'production' file.
+	There can be multiple branches that can run parallel to the production *master branch.
