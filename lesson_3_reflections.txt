@@ -26,3 +26,9 @@
 	I would use the google suite for collaboration or send files back and forth between my collaborator.
 	It is much easier with github if you are comfortable with the github environment. For normal documents 
 	it would be much easier to use the google appications
+
+6. When would you want to make changes in a separate branch rather than directly in master? 
+	What benefits does each approach have?
+
+	Making changes on a separate branch allows you the opportunity to share the change and ask for feedback 
+	without having to potentially break anything that is in production.
