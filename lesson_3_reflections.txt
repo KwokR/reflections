@@ -20,3 +20,9 @@
 	The copy of the last known state if the remote helps to distinguish at what point in time did 
 	I last pull a copy from remote. This mechanism allows multiple updates on the repo and having a 
 	way to determine if same areas have been changed in the same file. 
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	
+	I would use the google suite for collaboration or send files back and forth between my collaborator.
+	It is much easier with github if you are comfortable with the github environment. For normal documents 
+	it would be much easier to use the google appications
